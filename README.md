@@ -1,6 +1,6 @@
 # Objectives
 
-* Explaine what the Document Object Model is
+* Explain what the Document Object Model is
 * Sketch the Difference between Node and Element
 * Demonstrate selecting an element with JQuery
 * Demonstrate adding a new element with JQuery
